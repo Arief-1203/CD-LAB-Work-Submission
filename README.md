@@ -15,9 +15,9 @@ Step 2: Open Terminal
 Inside Codespaces:
 1. Click **Terminal → New Terminal**
 2. You will see something like:
-   ```bash
-   username ➜ /workspaces/repo-name $
-
+ ```bash
+username ➜ /workspaces/repo-name $
+```
 Step 3: Install Flex and Bison
 Run the following command:
 ```
@@ -54,7 +54,8 @@ Then press:
 ```
 Ctrl + D
 ```
-Expected Output
+Expected Output:
+
 ========== 1. LEXICAL ANALYSIS ==========
 (tokens...)
 
